@@ -1,0 +1,33 @@
+body {      
+    height: 100%;
+    box-sizing: border-box;
+    font-family: Consolas;
+    color: white;
+    border: 5px solid rgb(167,170,169);  
+    margin: 20px;            
+}
+
+.grid-container > div, aside, footer {
+    font-weight: bold;
+    padding: 0px 20px;
+}
+
+h1, h2 {margin: 8px 0px 5px 3px;}
+
+.site-header {
+    background-color: rgb(82, 167, 249);  
+}
+
+.site-main {
+    background-color: rgb(111, 192, 65);      
+}
+
+.widget-area { 
+    background-color: rgb(179,106,226);
+}
+
+.site-footer {
+    background-color: rgb(3,101,192);
+    padding-top: 10px
+}
+
